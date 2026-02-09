@@ -1,0 +1,7 @@
+{
+  "Sources": [
+    "bids:raw:sub-09/func/sub-09_task-smid_run-03_bold.nii.gz",
+    "bids::sub-09/func/sub-09_task-smid_run-03_from-orig_to-boldref_mode-image_desc-hmc_xfm.txt",
+    "bids::sub-09/func/sub-09_task-smid_run-03_from-boldref_to-T1w_mode-image_desc-coreg_xfm.txt"
+  ]
+}
