@@ -1,0 +1,13 @@
+{
+  "DelayTime": 0.09749999999999992,
+  "RepetitionTime": 0.72,
+  "SliceTimingCorrected": true,
+  "Sources": [
+    "bids:raw:sub-23/func/sub-23_task-mfv_run-02_bold.nii.gz",
+    "bids::sub-23/func/sub-23_task-mfv_run-02_from-orig_to-boldref_mode-image_desc-hmc_xfm.txt",
+    "bids::sub-23/func/sub-23_task-mfv_run-02_from-boldref_to-T1w_mode-image_desc-coreg_xfm.txt",
+    "bids::sub-23/anat/sub-23_from-fsnative_to-T1w_mode-image_xfm.txt"
+  ],
+  "StartTime": 0.311,
+  "TaskName": "mfv"
+}
