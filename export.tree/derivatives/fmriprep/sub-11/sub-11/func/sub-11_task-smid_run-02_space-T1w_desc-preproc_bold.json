@@ -1,0 +1,13 @@
+{
+  "DelayTime": 0.09999999999999998,
+  "RepetitionTime": 0.72,
+  "SkullStripped": false,
+  "SliceTimingCorrected": true,
+  "Sources": [
+    "bids:raw:sub-11/func/sub-11_task-smid_run-02_bold.nii.gz",
+    "bids::sub-11/func/sub-11_task-smid_run-02_from-orig_to-boldref_mode-image_desc-hmc_xfm.txt",
+    "bids::sub-11/func/sub-11_task-smid_run-02_from-boldref_to-T1w_mode-image_desc-coreg_xfm.txt"
+  ],
+  "StartTime": 0.31,
+  "TaskName": "image"
+}
