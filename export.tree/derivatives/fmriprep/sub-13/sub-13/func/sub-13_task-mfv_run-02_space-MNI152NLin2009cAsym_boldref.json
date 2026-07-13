@@ -1,9 +1,0 @@
-{
-  "Sources": [
-    "bids:raw:sub-13/func/sub-13_task-mfv_run-02_bold.nii.gz",
-    "bids::sub-13/func/sub-13_task-mfv_run-02_from-orig_to-boldref_mode-image_desc-hmc_xfm.txt",
-    "bids::sub-13/func/sub-13_task-mfv_run-02_from-boldref_to-T1w_mode-image_desc-coreg_xfm.txt",
-    "bids::sub-13/anat/sub-13_from-T1w_to-MNI152NLin2009cAsym_mode-image_xfm.h5",
-    "bids:templateflow:tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_T1w.nii.gz"
-  ]
-}
